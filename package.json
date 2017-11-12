@@ -1,0 +1,26 @@
+{
+  "name": "mybamazon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulaiwa/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "meowhead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulaiwa/bamazon/issues"
+  },
+  "homepage": "https://github.com/ulaiwa/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
